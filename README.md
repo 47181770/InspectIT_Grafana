@@ -6,4 +6,5 @@
 # Configuration Step in the apm2influxdb.py
 # 1. Configure the CMR server's host IP and port
 # 2. Configure the influxDB database server host IP, port, username, password, database name
+# 3. You can set the grafana to connect to influxDB.
 
