@@ -1,5 +1,8 @@
 # -*-coding:utf-8-*-
-import json
+"""
+    The python script can transfer the InspectIT data to influxDB
+    By Fei 47181770@qq.com
+"""
 import requests
 import time
 import datetime
